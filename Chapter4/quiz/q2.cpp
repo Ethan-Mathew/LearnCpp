@@ -1,5 +1,6 @@
 #include <iostream>
 
+// Calculator program
 int main()
 {
     std::cout << "Enter a double value: ";
